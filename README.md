@@ -8,7 +8,7 @@
 # Language
 
 - [x] PHP <a href="https://www.php.net" target="_blank"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-- [x] PMMP <a href="https://pmmp.readthedocs.io/en/rtfd/index.html" target="_blank"> </a> <img src="https://pmmp.readthedocs.io/en/rtfd/_images/PocketMine-MP.png" alt= "pmmp" width="40" height="40"/>
+- [x] PMMP <a href="https://pmmp.readthedocs.io/en/rtfd/index.html" target="_blank"> </a> <img src="https://play-lh.googleusercontent.com/dXpfMIecC4SWh2bOnbvKXZwF6tgrPoorBTq2V3kkI_PK3U0V3FPFf4w6OM7zyxBY3FU" alt= "pmmp" width="40" height="40"/>
 - [x] JS <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"></a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/197px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="40" height="40"/>
 - [x] C# <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"> </a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="c#" width="40" height="40"/>
 - [x] Python <a href="https://www.python.org" target="_blank"> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
