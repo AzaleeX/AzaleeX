@@ -3,8 +3,8 @@
 
 #My Discord
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846395226640613396 )]
-(https://discord.com/users/846395226640613396)
+[![Discord Presence]()]
+(https://api.lanyard.rest/v1/users/846395226640613396)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaelee&label=Profile%20views&color=0e75b6&style=flat" alt="Zaelee" /> </p>
 
