@@ -1,25 +1,17 @@
-<h1 align="center">Hello 👋, My Name is AzogBn</h1>
-<h3 align="center">Je suis étudiant en systéme numérique</h3>
+﻿![Profile picture Github]
 
-#My Discord
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846395226640613396
-                            )](https://discord.com/users/846395226640613396)
+---
 
+I'm [Azalee](https://www.youtube.com/channel/UC7DjT1Wzgchw8c49pdeIKDg), I am an apprentice developer I am currently learning in my high school! but I already know coded in PHP, JS, Python , HTML and CSS.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zaelee&label=Profile%20views&color=0e75b6&style=flat" alt="Zaelee" /> </p>
+<img align="right" alt="GIF" src="./programmer.gif" width="400" height="245" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Zaelee&theme=nord&no-bg=true&no-frame=true" alt="Zaelee" /></a> </p>
+<a href="https://github.com/Zaelee"><img alt="GitHub - Zaelee" title="GitHub - Zaelee" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a> <a href="https://discord.gg/2xuWVbUEFA"><img alt="Discord - Azalee#2006" title="Discord - Azalee#2006" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a> <a href="https://twitter.com/azogbn"><img alt="Twitter - azogbn" title="Twitter - azogbn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> <a href="https://www.youtube.com/channel/UC7DjT1Wzgchw8c49pdeIKDg"><img alt="YouTube - Azalee" title="YouTube - Azalee" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
 
-# Language
+```
 
-- [x] PHP <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-- [x] PMMP <a href="https://pmmp.readthedocs.io/en/rtfd/index.html" target="_blank"> <img src="https://play-lh.googleusercontent.com/dXpfMIecC4SWh2bOnbvKXZwF6tgrPoorBTq2V3kkI_PK3U0V3FPFf4w6OM7zyxBY3FU" alt= "pmmp" width="40" height="40"/> </a>
-- [x] JS <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/197px-Unofficial_JavaScript_logo_2.svg.png" alt="js" width="40" height="40"/> </a>
-- [x] C# <a href="https://docs.microsoft.com/fr-fr/dotnet/csharp" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png" alt="c#" width="40" height="40"/> </a>
-- [x] Python <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+I am currently working on my minecraft bedrock edition server under pmmp 4, I code my server from A to Z, if you want to join it click on the link below :
 
-# Stats
-![](https://github-readme-stats.vercel.app/api?username=Zaelee&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Zaelee&langs_count=4&count_private=true&theme=nord)
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zaelee&theme=nord&hide_border=true" alt="AzogBn" /></p>
+SygmaMc Projet : https://discord.gg/kZQuyMkT54
