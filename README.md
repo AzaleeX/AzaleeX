@@ -1,4 +1,4 @@
-﻿![Profile picture Github]
+﻿![Profile picture Github](https://avatars.githubusercontent.com/u/82237910?s=400&u=358985e0e89ce2ace1f1642a539e8fdd830f9a44&v=4)
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
