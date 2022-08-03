@@ -1,11 +1,25 @@
-﻿![Profile picture Github](https://avatars.githubusercontent.com/u/82237910?s=400&u=358985e0e89ce2ace1f1642a539e8fdd830f9a44&v=4)
+### Hi there :wave:
 
-### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Azalee 16 years old, and I am currently in high school in the field of Digital Systems
+
+Big or small, a project deserves a description, slide down for my repository!
+
+<p align="center">  
+  <a href="https://twitter.com/AzaleeMcpe">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="" />
+  </a>
+  <a href="https://discord.com/users/846395226640613396">
+    <img src="https://skillicons.dev/icons?i=discord" alt="" />
+  </a>
+  <a href="https://www.youtube.com/channel/UC7DjT1Wzgchw8c49pdeIKDg">
+    <img src="https://www.shareicon.net/data/48x48/2015/09/30/109355_media_512x512.png" alt="YouTube" />
+  </a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=github" alt="" />
+  </a>
+</p>
 
 ---
-
-I'm [Azalee](https://www.youtube.com/channel/UC7DjT1Wzgchw8c49pdeIKDg), I am an apprentice developer I am currently learning in my high school! but I already know coded in PHP, JS, Python , HTML and CSS.
-
-<a href="https://github.com/Zaelee"><img alt="GitHub - Zaelee" title="GitHub - Zaelee" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg"></a> <a href="https://discord.gg/vQBctPJstu"><img alt="Discord - Azalee#2006" title="Discord - Azalee#2006" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"></a> <a href="https://twitter.com/azogbn"><img alt="Twitter - azogbn" title="Twitter - azogbn" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> <a href="https://www.youtube.com/channel/UC7DjT1Wzgchw8c49pdeIKDg"><img alt="YouTube - Azalee" title="YouTube - Azalee" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg"></a>
-
-```
+| Discord Status  | I use these languages  | Others  |
+| -- | -- | -- |
+| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846395226640613396)](https://discord.com/users/846395226640613396) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
