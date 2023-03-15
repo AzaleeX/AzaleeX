@@ -20,8 +20,6 @@ Big or small, a project deserves a description, slide down for my repository!
 </p>
 
 ---
-| Discord Status  | I use these languages  | Others  |
+| What i listen to  | I use these languages  | Others  |
 | -- | -- | -- |
-| [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/846395226640613396)](https://discord.com/users/846395226640613396) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=58odnj281sok9ucrrf65pqats&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+| [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=58odnj281sok9ucrrf65pqats&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)(https://discord.com/users/846395226640613396) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux&perline=3)](https://skillicons.dev) |
