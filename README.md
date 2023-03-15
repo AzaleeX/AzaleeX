@@ -1,6 +1,6 @@
 ### Hi there :wave:
 
-Azalee 16 years old, and I am currently in high school in the field of Digital Systems
+Azalee 17 years old, and I am currently in high school in the field of Digital Systems
 
 Big or small, a project deserves a description, slide down for my repository!
 
