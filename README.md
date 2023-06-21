@@ -1,7 +1,7 @@
 ### Hi there :wave:
 
 Azalee, aged 17, is a dedicated development student who strives for continuous improvement.
-Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.
+- Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.
 
 <p align="center">  
   <a href="https://twitter.com/AzaleeMcpe">
