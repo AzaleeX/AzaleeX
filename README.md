@@ -27,4 +27,4 @@ Alexandre Pramondon,
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=AzaleeX&count_private=true&show_icons=true&show=commits&hide_border=true&theme=dark&include_all_commits=true)](#)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
----
+--- 
