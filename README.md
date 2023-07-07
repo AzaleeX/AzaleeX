@@ -1,5 +1,7 @@
 ### Hi there :wave:
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()
+
 Alexandre Pramondon,
  **Azalee**, aged 17, is a dedicated development student who strives for continuous improvement.
  > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.
@@ -27,7 +29,6 @@ Alexandre Pramondon,
 | -- | -- | -- |
 | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=58odnj281sok9ucrrf65pqats&cover_image=false&theme=default&show_offline=true&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) | [![My Skills](https://skillicons.dev/icons?i=php,ts,js,java,html,css&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,github,docker,mysql,linux,bots,idea,jenkins&perline=3)](https://skillicons.dev) |
 ---
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=AzaleeX&count_private=true&show_icons=true&show=commits&hide_border=true&theme=dark&include_all_commits=true)](#)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
