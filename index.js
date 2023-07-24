@@ -21,7 +21,8 @@ function generateReadme()
         "\n" +
         "Alexandre Pramondon,\n" +
         " **Azalee**, aged 17, is a dedicated development student who strives for continuous improvement.\n" +
-        " \n🎉 My birthday is on October 2 in **" + getMyBirthday() + "** days ?\n" +
+        "\n" +
+        " 🎉 My birthday is on October 2 in **" + getMyBirthday() + "** days ?\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
         " <img alt=\"github-snake\" src=\"asset/AzaleeSnake.svg\" />\n" +
