@@ -4,10 +4,29 @@ const dateToday = new Date();
 
 function getMyBirthday()
 {
-    const myBirthday = new Date(Date.UTC(2005, 10, 2, 0, 0, 0));
-    const differenceInTime =  myBirthday.getTime() - dateToday.getTime();
+    const birthdayYear = 2005;
+    const birthdayMonth = 9;
+    const birthdayDay = 2;
+
+    const today = new Date();
+    const birthday = new Date(birthdayYear, birthdayMonth, birthdayDay);
+
+    if (today.getMonth() > birthdayMonth || (today.getMonth() === birthdayMonth && today.getDate() > birthdayDay)) {
+        birthday.setFullYear(today.getFullYear() + 1);
+    }
+
+    const differenceInTime = birthday.getTime() - today.getTime();
+
     const daysUntilBirthday = Math.ceil(differenceInTime / (1000 * 3600 * 24));
-    return daysUntilBirthday;
+
+    if(daysUntilBirthday === 0)
+    {
+        return "Today 🎉";
+    }else if(daysUntilBirthday === 1){
+        return "Tomorrow 🎓";
+    }else{
+        return daysUntilBirthday;
+    }
 }
 
 function generateReadme()
