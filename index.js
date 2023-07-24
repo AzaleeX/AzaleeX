@@ -15,9 +15,9 @@ function getMyBirthday()
 
     if(today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth())
     {
-        return `${age} years old... But I will be Today 🎉`;
+        return `${age} years old... But I will be <strong>Today 🎉</strong>`;
     }else if(today.getDate() === birthday.getDate() -1 && today.getMonth() === birthday.getMonth()){
-        return `${age} years old... But I will be Tomorrow 🎓`;
+        return `${age} years old... But I will be <strong>Tomorrow 🎓</strong>`;
     }
 
     const birthdatetoday = new Date(birthday.setFullYear(today.getFullYear()));
@@ -30,8 +30,8 @@ function getMyBirthday()
     const timeUntilBirthday = nextBirthdayDate - today;
     const dayUntilBirthday = Math.round(timeUntilBirthday / msInOneDay);
 
-    return `${age} years old... But I will be **${age + 1
-    }** in **${dayUntilBirthday} days 🎉**`;
+    return `${age} years old... But I will be <strong>${age + 1
+    }</strong> in <strong>${dayUntilBirthday} days 🎉</strong>`;
 }
 
 function generateReadme()
@@ -47,7 +47,7 @@ function generateReadme()
         " Alexandre Pramondon" +
         "</h2>\n" +
         "<p align=\"center\">\n" +
-        "  Alias: **Azalee**" +
+        "  Alias: <strong>Azalee</strong>" +
         "</p>\n" +
         "<p> align=\"center\">\n" +
         " "+ getMyBirthday() +
