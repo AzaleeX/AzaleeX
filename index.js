@@ -43,10 +43,18 @@ function generateReadme()
         "\n" +
         "[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()\n" +
         "\n" +
-        "- Alexandre Pramondon," +
-        "- **Azalee**, " +
-        "- "+ getMyBirthday() +"," +
-        "- is a dedicated development student who strives for continuous improvement.\n" +
+        "<h2 align=\"center\">\n" +
+        " Alexandre Pramondon" +
+        "</h2>\n" +
+        "<p align=\"center\">\n" +
+        "  Alias: **Azalee**" +
+        "</p>\n" +
+        "<p> align=\"center\">\n" +
+        " "+ getMyBirthday() +
+        "<p/>\n" +
+        "<p align=\"center\">\n" +
+        " Description: is a dedicated development student who is committed to achieving continuous improvement." +
+        "</p>\n" +
         "\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
