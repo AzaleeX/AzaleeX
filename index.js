@@ -30,18 +30,23 @@ function getMyBirthday()
     const timeUntilBirthday = nextBirthdayDate - today;
     const dayUntilBirthday = Math.round(timeUntilBirthday / msInOneDay);
 
-    return `${age} years old... But I will be ${age + 1
-    } in ${dayUntilBirthday} days 🎉`;
+    return `${age} years old... But I will be **${age + 1
+    }** in **${dayUntilBirthday} days 🎉**`;
 }
 
 function generateReadme()
 {
-    const readmeContent = "### Hi there :wave:\n" +
+    const readmeContent =
+        "<p align=\"center\">\n" +
+        " <h1>Hi there :wave:</h1>\n" +
+        "</p>\n" +
         "\n" +
         "[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()\n" +
         "\n" +
-        "Alexandre Pramondon,\n" +
-        " **Azalee**, "+ getMyBirthday() +", is a dedicated development student who strives for continuous improvement.\n" +
+        "- Alexandre Pramondon," +
+        "- **Azalee**, " +
+        "- "+ getMyBirthday() +"," +
+        "- is a dedicated development student who strives for continuous improvement.\n" +
         "\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
