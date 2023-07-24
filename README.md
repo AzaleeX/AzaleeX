@@ -4,7 +4,14 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()
 
-- Alexandre Pramondon,- **Azalee**, - 17 years old... But I will be **18** in **70 days 🎉**,- is a dedicated development student who strives for continuous improvement.
+<h2 align="center">
+ Alexandre Pramondon</h2>
+<p align="center">
+  Alias: **Azalee**</p>
+<p> align="center">
+ 17 years old... But I will be **18** in **70 days 🎉**<p/>
+<p align="center">
+ Description: is a dedicated development student who is committed to achieving continuous improvement.</p>
 
  > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.
 <p align="center">
@@ -35,4 +42,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
 📅 Last update of my README was **24/7/2023**
-at **9:18:25**
+at **9:24:15**
