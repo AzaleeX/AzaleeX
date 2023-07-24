@@ -46,15 +46,15 @@ function generateReadme()
         "<h2 align=\"center\">\n" +
         " Alexandre Pramondon" +
         "</h2>\n" +
-        "<p align=\"center\">\n" +
+        "<h3 align=\"center\">\n" +
         "  Alias: <strong>Azalee</strong>" +
-        "</p>\n" +
-        "<p> align=\"center\">\n" +
-        " "+ getMyBirthday() + "\n" +
-        "<p/>\n" +
-        "<p align=\"center\">\n" +
+        "</h3>\n" +
+        "<h3 align=\"center\">\n" +
+        " " + getMyBirthday() + "\n" +
+        "<h3/>\n" +
+        "<h3 align=\"center\">\n" +
         " Description: is a dedicated development student who is committed to achieving continuous improvement." +
-        "</p>\n" +
+        "</h3>\n" +
         "\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
