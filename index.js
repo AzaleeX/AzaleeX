@@ -4,10 +4,11 @@ const dateToday = new Date();
 
 function getMyBirthday()
 {
-    const myBirthday = new Date(2005, 10, 2);
+    const myBirthday = new Date.UTC(2005, 10, 2);
     const dateToday = new Date();
-    const differenceInTime = dateToday.getTime() - myBirthday.getTime();
-    return differenceInTime / (1000 * 3600 * 24);
+    const differenceInTime =  myBirthday.getTime() - dateToday.getTime();
+    const daysUntilBirthday = Math.ceil(differenceInTime / (1000 * 3600 * 24));
+    return daysUntilBirthday;
 }
 
 function generateReadme()
@@ -20,7 +21,7 @@ function generateReadme()
         "\n" +
         "Alexandre Pramondon,\n" +
         " **Azalee**, aged 17, is a dedicated development student who strives for continuous improvement.\n" +
-        " 🎉 My birthday is on October 2 in " + getMyBirthday() + " days ?\n" +
+        " \n🎉 My birthday is on October 2 in **" + getMyBirthday() + "** days ?\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
         " <img alt=\"github-snake\" src=\"asset/AzaleeSnake.svg\" />\n" +
