@@ -43,9 +43,6 @@ function generateReadme()
         "\n" +
         "[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()\n" +
         "\n" +
-        "<h2 align=\"center\">\n" +
-        " Alexandre Pramondon" +
-        "</h2>\n" +
         "<h3 align=\"center\">\n" +
         "  Alias: <strong>Azalee</strong>" +
         "</h3>\n" +
