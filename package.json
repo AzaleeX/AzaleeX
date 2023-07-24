@@ -1,0 +1,15 @@
+{
+  "name": "zaeleebot",
+  "version": "1.0.0",
+  "description": "a bot that updates my readme at 00:01",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzaleeX/AzaleeX.git"
+  },
+  "author": "AzaleeX",
+  "license": "ISC"
+}
