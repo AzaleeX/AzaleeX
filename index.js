@@ -1,10 +1,10 @@
 const { promises: fs } = require('fs');
 
-const dateToday = new Date();
+const dateToday = new Date(Date.UTC(new Date().getFullYear(), new Date().getMonth(), new Date().getDate()));
 
 function getMyBirthday()
 {
-    const myBirthday = new Date.UTC(2005, 10, 2);
+    const myBirthday = new Date(Date.UTC(2005, 10, 2, 0, 0, 0));
     const dateToday = new Date();
     const differenceInTime =  myBirthday.getTime() - dateToday.getTime();
     const daysUntilBirthday = Math.ceil(differenceInTime / (1000 * 3600 * 24));
