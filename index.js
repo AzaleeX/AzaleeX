@@ -50,7 +50,7 @@ function generateReadme()
         "  Alias: <strong>Azalee</strong>" +
         "</p>\n" +
         "<p> align=\"center\">\n" +
-        " "+ getMyBirthday() +
+        " "+ getMyBirthday() + "\n" +
         "<p/>\n" +
         "<p align=\"center\">\n" +
         " Description: is a dedicated development student who is committed to achieving continuous improvement." +
