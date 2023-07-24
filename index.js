@@ -18,13 +18,13 @@ function getMyBirthday()
     const differenceInTime = today.getTime() - birthday.getTime();
     const differenceInDays = differenceInTime / (1000 * 3600 * 24);
 
-    if(daysUntilBirthday === 0)
+    if(differenceInDays === 0)
     {
         return "Today 🎉";
-    }else if(daysUntilBirthday === 1){
+    }else if(differenceInDays === 1){
         return "Tomorrow 🎓";
     }else{
-        return daysUntilBirthday;
+        return differenceInDays;
     }
 }
 
