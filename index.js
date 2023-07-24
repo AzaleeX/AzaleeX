@@ -37,9 +37,9 @@ function getMyBirthday()
 function generateReadme()
 {
     const readmeContent =
-        "<p align=\"center\">\n" +
-        " <h1>Hi there :wave:</h1>\n" +
-        "</p>\n" +
+        "<h1 align=\"center\">\n" +
+        " Hi there :wave:\n" +
+        "</h1>\n" +
         "\n" +
         "[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()\n" +
         "\n" +
