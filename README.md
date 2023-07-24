@@ -7,9 +7,9 @@
 <h2 align="center">
  Alexandre Pramondon</h2>
 <p align="center">
-  Alias: **Azalee**</p>
+  Alias: <strong>Azalee</strong></p>
 <p> align="center">
- 17 years old... But I will be **18** in **70 days 🎉**<p/>
+ 17 years old... But I will be <strong>18</strong> in <strong>70 days 🎉</strong><p/>
 <p align="center">
  Description: is a dedicated development student who is committed to achieving continuous improvement.</p>
 
@@ -42,4 +42,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
 📅 Last update of my README was **24/7/2023**
-at **9:24:15**
+at **9:27:21**
