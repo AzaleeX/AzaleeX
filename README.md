@@ -4,8 +4,6 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()
 
-<h2 align="center">
- Alexandre Pramondon</h2>
 <h3 align="center">
   Alias: <strong>Azalee</strong></h3>
 <h3 align="center">
@@ -43,4 +41,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
 📅 Last update of my README was **24/7/2023**
-at **9:31:29**
+at **9:33:25**
