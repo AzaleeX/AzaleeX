@@ -15,9 +15,8 @@ function getMyBirthday()
         birthday.setFullYear(today.getFullYear() + 1);
     }
 
-    const differenceInTime = birthday.getTime() - today.getTime();
-
-    const daysUntilBirthday = Math.ceil(differenceInTime / (1000 * 3600 * 24));
+    const differenceInTime = today.getTime() - birthday.getTime();
+    const differenceInDays = differenceInTime / (1000 * 3600 * 24);
 
     if(daysUntilBirthday === 0)
     {
