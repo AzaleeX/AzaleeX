@@ -2,44 +2,47 @@ const { promises: fs } = require('fs');
 
 const dateToday = new Date();
 
+const msInOneDay = 1000 * 60 * 60 * 24;
+
 function getMyBirthday()
 {
-    const birthdayYear = 2005;
-    const birthdayMonth = 9;
-    const birthdayDay = 2;
-
     const today = new Date();
-    const birthday = new Date(birthdayYear, birthdayMonth, birthdayDay);
+    const birthday = new Date("2005-10-02T00:00:00.000Z");
 
-    if (today.getMonth() > birthdayMonth || (today.getMonth() === birthdayMonth && today.getDate() > birthdayDay)) {
-        birthday.setFullYear(today.getFullYear() + 1);
-    }
+    const diffBirthdayToToday = today - birthday;
 
-    const differenceInTime = today.getTime() - birthday.getTime();
-    const differenceInDays = differenceInTime / (1000 * 3600 * 24);
+    const age = new Date(diffBirthdayToToday).getFullYear() - 1970;
 
-    if(differenceInDays === 0)
+    if(today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth())
     {
-        return "Today 🎉";
-    }else if(differenceInDays === 1){
-        return "Tomorrow 🎓";
-    }else{
-        return differenceInDays;
+        return `${age} years old... But I will be Today 🎉`;
+    }else if(today.getDate() === birthday.getDate() -1 && today.getMonth() === birthday.getMonth()){
+        return `${age} years old... But I will be Tomorrow 🎓`;
     }
+
+    const birthdatetoday = new Date(birthday.setFullYear(today.getFullYear()));
+    const isBirthdayRaised = today - birthdatetoday > 0;
+
+    const nextBirthdayYear = birthday.getFullYear() + (isBirthdayRaised ? 1 : 0);
+    const nextBirthdayDate = new Date(birthday.getTime());
+    nextBirthdayDate.setFullYear(nextBirthdayYear);
+
+    const timeUntilBirthday = nextBirthdayDate - today;
+    const dayUntilBirthday = Math.round(timeUntilBirthday / msInOneDay);
+
+    return `${age} years old... But I will be ${age + 1
+    } in ${dayUntilBirthday} days 🎉`;
 }
 
 function generateReadme()
 {
-    const birthdaydate = getMyBirthday();
-
     const readmeContent = "### Hi there :wave:\n" +
         "\n" +
         "[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()\n" +
         "\n" +
         "Alexandre Pramondon,\n" +
-        " **Azalee**, aged 17, is a dedicated development student who strives for continuous improvement.\n" +
+        " **Azalee**, "+ getMyBirthday() +", is a dedicated development student who strives for continuous improvement.\n" +
         "\n" +
-        " 🎉 My birthday is on October 2 in **" + getMyBirthday() + "** days ?\n" +
         " > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.\n" +
         "<p align=\"center\">\n" +
         " <img alt=\"github-snake\" src=\"asset/AzaleeSnake.svg\" />\n" +
