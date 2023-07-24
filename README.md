@@ -1,6 +1,6 @@
-<p align="center">
- <h1>Hi there :wave:</h1>
-</p>
+<h1 align="center">
+ Hi there :wave:
+</h1>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()
 
@@ -35,4 +35,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
 📅 Last update of my README was **24/7/2023**
-at **9:17:24**
+at **9:18:25**
