@@ -40,5 +40,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
-📅 Last update of my README was **31/7/2023**
-at **14:38:42**
+📅 Last update of my README was **1/8/2023**
+at **2:9:34**
