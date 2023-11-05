@@ -7,7 +7,7 @@
 <h3 align="center">
   Alias: <strong>Azalee</strong></h3>
 <h3 align="center">
- 18 years old... But I will be <strong>19</strong> in <strong>333 days 🎉</strong>
+ 18 years old... But I will be <strong>19</strong> in <strong>332 days 🎉</strong>
 <h3/>
 <h3 align="center">
  Description: is a dedicated development student who is committed to achieving continuous improvement.</h3>
@@ -40,5 +40,5 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=png)](#)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
 --- 
-📅 Last update of my README was **4/11/2023**
-at **1:47:7**
+📅 Last update of my README was **5/11/2023**
+at **1:54:1**
