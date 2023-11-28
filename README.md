@@ -3,7 +3,7 @@
  Hi there :wave:
 </h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)]()
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=AzaleeX&data=followers,repositories,stars,commits&theme=darkmode)](#)
 
 <h3 align="center">
   Alias: <strong>Azalee</strong></h3>
