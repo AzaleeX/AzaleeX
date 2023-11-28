@@ -40,13 +40,16 @@
 
 <p align="center">
 <a href="#">
-<img src="">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=svg">
 </a>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=svg)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
-[![AzaleeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleeX&show_icons=true&theme=dark)](#)
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark">
+</a>
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api?username=AzaleeX&show_icons=true&theme=dark">
+</a>
 </p>
 
 ---
 📅 Last update of my README was **28/11/2023**
-at **9:18:33**
+at **9:19:38**
