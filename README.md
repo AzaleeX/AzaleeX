@@ -1,3 +1,4 @@
+
 <h1 align="center">
  Hi there :wave:
 </h1>
@@ -7,10 +8,10 @@
 <h3 align="center">
   Alias: <strong>Azalee</strong></h3>
 <h3 align="center">
- 18 years old... But I will be <strong>19</strong> in <strong>309 days 🎉</strong>
+  18 years old... But I will be <strong>19</strong> in <strong>309 days 🎉</strong>
 <h3/>
 <h3 align="center">
- Description: is a dedicated development student who is committed to achieving continuous improvement.</h3>
+  Description: is a dedicated development student who is committed to achieving continuous improvement.</h3>
 
  > Passionate about programming and development, he actively contributes on GitHub by sharing useful projects to enhance his skills day by day.
 <p align="center">
@@ -39,16 +40,13 @@
 
 <p align="center">
 <a href="#">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=svg">
+<img src="">
 </a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark">
-</a>
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api?username=AzaleeX&show_icons=true&theme=dark">
-</a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AzaleeX&theme=dark&hide_border=true&type=svg)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AzaleeX&layout=compact&hide_border=true&theme=dark)](#)
+[![AzaleeX's GitHub stats](https://github-readme-stats.vercel.app/api?username=AzaleeX&show_icons=true&theme=dark)](#)
 </p>
 
 ---
 📅 Last update of my README was **28/11/2023**
-at **9:0:43**
+at **9:18:33**
