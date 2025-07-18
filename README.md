@@ -8,7 +8,7 @@
 <h3 align="center">
   Alias: <strong>Azalee</strong></h3>
 <h3 align="center">
-  19 years old... But I will be <strong>20</strong> in <strong>78 days 🎉</strong>
+  19 years old... But I will be <strong>20</strong> in <strong>76 days 🎉</strong>
 <h3/>
 <h3 align="center">
   Description: is a dedicated development student who is committed to achieving continuous improvement.</h3>
@@ -51,5 +51,5 @@
 </p>
 
 ---
-📅 Last update of my README was **16/7/2025**
-at **2:53:48**
+📅 Last update of my README was **18/7/2025**
+at **2:56:38**
